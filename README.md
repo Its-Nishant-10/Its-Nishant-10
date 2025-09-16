@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Its-Nishant-10">
-    <img src="https://media.giphy.com/media/qgQUggACpCjo6/giphy.gif" width="100px" />
+    <img src="https://media.giphy.com/media/qgQUggACpCjo6/giphy.gif" width="400px" />
   </a>
 </p>
 
