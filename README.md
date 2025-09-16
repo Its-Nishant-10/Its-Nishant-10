@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Its-Nishant-10">
-    <p align="center">
-  <img src="profile.jpg" width="200px" style="border-radius:50%;" />
+<p align="center">
+  <img src="profile.jpg" width="200px" style="border-radius:50%; object-fit:cover; height:200px; width:200px;" />
 </p>
   </a>
 </p>
