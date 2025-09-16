@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://github.com/Its-Nishant-10">
-    <div class="tenor-gif-embed" data-postid="1685253974686102949" data-share-method="host" data-aspect-ratio="1.37569" data-width="100%"><a href="https://tenor.com/view/pacman-eat-tenset-10set-crypto-gif-1685253974686102949">Pacman Eat GIF</a>from <a href="https://tenor.com/search/pacman-gifs">Pacman GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <p align="center">
+  <img src="profile.jpg" width="200px" style="border-radius:50%;" />
+</p>
   </a>
 </p>
 
