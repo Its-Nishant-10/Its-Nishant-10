@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Its-Nishant-10">
-<p align="center">
-  <img src="profile.jpg" width="200px" style="border-radius:50%; object-fit:cover; height:200px; width:200px;" />
-</p>
-  </a>
-</p>
-
 <h1 align="center">Hey, I'm Nishant Nahar 👋</h1>
 <h3 align="center">An AI/ML enthusiast exploring the intersection of code, customization, and creativity.</h3>
 
