@@ -90,7 +90,7 @@ I'm a passionate B.Tech Computer Science (AI & ML) student at KIIT University, d
 <div align="center">
 
 ### 🗓️ Contribution Calendar
-<img src="https://ghchart.rshah.org/58A6FF/Its-Nishant-10" alt="Nishant's GitHub Contributions" width="100%"/>
+<img src="https://ghchart.rshah.org/green/Its-Nishant-10" alt="Nishant's GitHub Contributions" width="100%"/>
 
 </div>
 
@@ -100,7 +100,7 @@ I'm a passionate B.Tech Computer Science (AI & ML) student at KIIT University, d
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Its-Nishant-10&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=Its-Nishant-10&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=2&column=5" alt="GitHub Trophies" width="100%">
 
 </div>
 
