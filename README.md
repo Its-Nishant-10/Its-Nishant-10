@@ -1,103 +1,133 @@
-<h1 align="center">Hey, I'm Nishant Nahar 👋</h1>
-<h3 align="center">An AI/ML enthusiast exploring the intersection of code, customization, and creativity.</h3>
+<div align="center">
+
+# 👋 Hey, I'm Nishant Nahar
+
+### 🚀 AI/ML Enthusiast | Tech Innovator | Creative Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&width=500&lines=Welcome+to+my+GitHub+profile!;B.Tech+CS+(AI+%26+ML)+@+KIIT+University;Passionate+about+AI+%26+Machine+Learning;Let's+build+the+future+together!" alt="Typing SVG" />
+
+</div>
 
 ---
 
-### 👨‍💻 About Me & How to Connect  
-I'm a B.Tech student in Computer Science (AI & ML) at KIIT University in Bhubaneswar, passionate about diving deep into technology.  
-My journey is fueled by a love for tweaking and personalizing software, especially within the Android & Windows ecosystems.  
-I'm constantly learning, building, and exploring new frontiers in programming and machine learning.  
+## 👨‍💻 About Me
 
-When I'm not coding, you can find me lost in the world of evergreen classics and timeless musical gems 🎧.  
-My motto is simple: **“Keep exploring, keep customizing, keep creating!” 🚀**
+I'm a passionate B.Tech Computer Science (AI & ML) student at KIIT University, dedicated to exploring the frontiers of artificial intelligence and machine learning. My journey is fueled by curiosity and the desire to create technology that makes a meaningful impact.
 
-📫 You can find me across the web here:  
+**💫 My Interests:**
+- 🤖 AI/ML Research & Development
+- 💻 Software Engineering & Architecture  
+- 🎨 Creative Problem Solving
+- 📸 Photography & Visual Storytelling
+- 🎵 Music & Creative Arts
 
-<p align="center">
-  <a href="https://linkedin.com/in/nishantnahar2006">
-    <img src="https://img.shields.io/badge/Nishant%20Nahar-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/yours_nishant">
-    <img src="https://img.shields.io/badge/yours__nishant-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://instagram.com/its.nishant.10">
-    <img src="https://img.shields.io/badge/Nishant%20Nahar-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram (Personal)">
-  </a>
-  <a href="https://instagram.com/thesilent.lens">
-    <img src="https://img.shields.io/badge/TheSilent.Lens-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram (Photography)">
-  </a>
-  <a href="https://reddit.com/user/Nishant_6131">
-    <img src="https://img.shields.io/badge/Nishant_6131-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
-  </a>
-  <a href="mailto:nishantnahar2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+**🎯 Current Focus:** Building intelligent systems and contributing to open-source projects in AI/ML domain.
 
 ---
 
-### 🛠️ My Tech Stack  
+## 🌐 Connect With Me
 
-💻 **Programming Languages**  
-<p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-</p>
+<div align="center">
 
-🔧 **Tools & Platforms**  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishantnahar2006)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yours_nishant)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its.nishant.10)
+[![Photography](https://img.shields.io/badge/Photography-5851DB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thesilent.lens)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Nishant_6131)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantnahar2006@gmail.com)
+
+</div>
 
 ---
 
-### 📊 My GitHub Stats  
+## 💻 Tech Stack
 
-<p align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Its-Nishant-10&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Its-Nishant-10&theme=transparent&hide_border=false" alt="GitHub Streak">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Nishant-10&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
 
----
+### 🚀 Programming Languages
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Its-Nishant-10)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Its-Nishant-10)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Its-Nishant-10)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Its-Nishant-10)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Its-Nishant-10)
 
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Its-Nishant-10&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
+### 🛠️ Tools & Platforms
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Its-Nishant-10)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Its-Nishant-10)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Its-Nishant-10)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://github.com/Its-Nishant-10)
+
+</div>
 
 ---
 
-### 📈 Contribution & Activity  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Its-Nishant-10&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Its-Nishant-10&theme=github-compact" alt="GitHub Activity Graph">
-</p>
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Its-Nishant-10&color=3EB489" alt="Profile Views">
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Its-Nishant-10&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Nishant-10&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Nishant-10&theme=dark&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="400">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### ✨ Let's Create the Future  
-Thanks for stopping by! If you’re into AI, ML, coding, or just love customizing tech, let’s connect and create something amazing together.  
+## 📈 GitHub Contributions
 
-> *"The best way to predict the future is to create it."* 🌟
+<div align="center">
+
+### 🗓️ Contribution Calendar
+<img src="https://ghchart.rshah.org/0D1117/Its-Nishant-10" alt="Nishant's GitHub Contributions" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Its-Nishant-10&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" width="100%">
+
+</div>
+
+---
+
+## 📈 Activity Overview
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Its-Nishant-10&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area_color=0D1117" alt="GitHub Activity Graph" width="100%">
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Its-Nishant-10&color=58A6FF&style=flat" alt="Profile Views">
+
+</div>
+
+---
+
+<div align="center">
+
+## 💫 Let's Create Something Amazing!
+
+> *"The best way to predict the future is to create it."* - Alan Kay
+
+🚀 **Always learning, always building, always innovating.**
+
+⭐ **Feel free to explore my repositories and don't forget to star if you find something interesting!**
+
+</div>
