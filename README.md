@@ -21,7 +21,7 @@ I'm a passionate B.Tech Computer Science (AI & ML) student at KIIT University, d
 - 📸 Photography & Visual Storytelling
 - 🎵 Music & Creative Arts
 
-**🎯 Current Focus:** Building intelligent systems and contributing to open-source projects in AI/ML domain.
+**🎯 Current Focus:** Building intelligent systems and contributing to open-source projects in the AI/ML domain.
 
 ---
 
@@ -71,7 +71,7 @@ I'm a passionate B.Tech Computer Science (AI & ML) student at KIIT University, d
       <img src="https://github-readme-stats.vercel.app/api?username=Its-Nishant-10&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="400">
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Nishant-10&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="400">
+      <img src="https://streak-stats.demolab.com/?user=Its-Nishant-10&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="400">
     </td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ I'm a passionate B.Tech Computer Science (AI & ML) student at KIIT University, d
 <div align="center">
 
 ### 🗓️ Contribution Calendar
-<img src="https://ghchart.rshah.org/0D1117/Its-Nishant-10" alt="Nishant's GitHub Contributions" width="100%"/>
+<img src="https://ghchart.rshah.org/58A6FF/Its-Nishant-10" alt="Nishant's GitHub Contributions" width="100%"/>
 
 </div>
 
