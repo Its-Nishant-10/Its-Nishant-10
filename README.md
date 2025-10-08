@@ -89,8 +89,7 @@ I'm a passionate B.Tech Computer Science (AI & ML) student at KIIT University, d
 
 <div align="center">
 
-### 🗓️ Contribution Calendar
-<img src="https://ghchart.rshah.org/green/Its-Nishant-10" alt="Nishant's GitHub Contributions" width="100%"/>
+<img src="https://ghchart.rshah.org/Its-Nishant-10" alt="Nishant's GitHub Contributions" width="100%"/>
 
 </div>
 
@@ -112,22 +111,19 @@ I'm a passionate B.Tech Computer Science (AI & ML) student at KIIT University, d
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Its-Nishant-10&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area_color=0D1117" alt="GitHub Activity Graph" width="100%">
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Its-Nishant-10&color=58A6FF&style=flat" alt="Profile Views">
-
 </div>
 
 ---
 
 <div align="center">
 
-## 💫 Let's Create Something Amazing!
+## 💫 Let's Create Something Amazing Together!
 
-> *"The best way to predict the future is to create it."* - Alan Kay
+> *"The best way to predict the future is to create it."* — **Alan Kay**
 
-🚀 **Always learning, always building, always innovating.**
+🚀 **I'm always open to collaboration, feedback, and new ideas!**  
+⭐ **If you like my work, consider [starring my repos](https://github.com/Its-Nishant-10?tab=repositories) — it means a lot!**  
+🤝 **Contributions & PRs are welcome!** Let’s learn and build together.
 
-⭐ **Feel free to explore my repositories and don't forget to star if you find something interesting!**
-
-</div>
+[![Stars](https://img.shields.io/github/stars/Its-Nishant-10?style=social)](https://github.com/Its-Nishant-10?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Its-Nishant-10&color=58A6FF&style=flat)](https://github.com/Its-Nishant-10)
