@@ -48,7 +48,7 @@ I'm a **B.Tech Computer Science (AI & ML)** student at **KIIT University**. I fo
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Statistics
 
 <p align="center">
@@ -61,6 +61,7 @@ I'm a **B.Tech Computer Science (AI & ML)** student at **KIIT University**. I fo
 </p>
 
 ---
+-->
 
 ### 📈 Profile Metrics
 
