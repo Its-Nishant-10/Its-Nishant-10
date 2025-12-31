@@ -49,7 +49,6 @@ I'm a **B.Tech Computer Science (AI & ML)** student at **KIIT University**. I fo
 
 ---
 
-<!--
 ### 📊 GitHub Statistics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Its-Nishant-10&show_icons=true&theme=transparent&hide_border=true&title_color=3399FF&icon_color=3399FF&text_color=ffffff&include_all_commits=true&count_private=true" />
@@ -68,7 +67,6 @@ I'm a **B.Tech Computer Science (AI & ML)** student at **KIIT University**. I fo
 </p>
 
 ---
--->
 
 ### 📈 Profile Metrics
 <p align="center">
