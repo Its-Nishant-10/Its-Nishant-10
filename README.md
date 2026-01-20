@@ -89,7 +89,7 @@ I'm a **B.Tech Computer Science (AI & ML)** student at **KIIT University**. I fo
 
 ---
 
-## 🔥 Contribution Heatmap (Optional but Cool)
+## 🔥 Contribution Heatmap
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Its-Nishant-10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
