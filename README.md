@@ -111,40 +111,6 @@ class Nishant:
   </picture>
 </div>
 
-<details>
-<summary>⚙️ <b>Setup snake animation (click to expand)</b></summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 ---
 
 ### 🏅 Badges
