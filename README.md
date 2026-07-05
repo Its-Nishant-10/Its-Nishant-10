@@ -8,7 +8,7 @@
 dMP dMP dMP  VMMMP" dMP dMP dMP dMP dMP dMP   dMP       
                                                                                         
 ```
-### 👋 Hi !! Everyone 
+`whoami`
 ### 🎓 B.Tech CSE (AI & ML) @ KIIT '28 ➗
 **Where simple math meets smart machines** 🤖
 <br>
