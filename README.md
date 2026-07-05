@@ -1,11 +1,12 @@
 <div align="center">
   
 ```text
-   _  ___     __             __    _  __     __           
-  / |/ (_)__ / /  ___ ____  / /_  / |/ /__ _/ /  ___ _____
- /    / (_-</ _ \/ _ `/ _ \/ __/ /    / _ `/ _ \/ _ `/ __/
-/_/|_/_/___/_//_/\_,_/_//_/\__/ /_/|_/\_,_/_//_/\_,_/_/   
-                                                                                                                                                                                            
+    dMMMMb  dMP .dMMMb  dMP dMP .aMMMb  dMMMMb dMMMMMMP         dMMMMb  .aMMMb  dMP dMP .aMMMb  dMMMMb 
+   dMP dMP amr dMP" VP dMP dMP dMP"dMP dMP dMP   dMP           dMP dMP dMP"dMP dMP dMP dMP"dMP dMP.dMP 
+  dMP dMP dMP  VMMMb  dMMMMMP dMMMMMP dMP dMP   dMP           dMP dMP dMMMMMP dMMMMMP dMMMMMP dMMMMK"  
+ dMP dMP dMP dP .dMP dMP dMP dMP dMP dMP dMP   dMP           dMP dMP dMP dMP dMP dMP dMP dMP dMP"AMF   
+dMP dMP dMP  VMMMP" dMP dMP dMP dMP dMP dMP   dMP           dMP dMP dMP dMP dMP dMP dMP dMP dMP dMP    
+                                                                                                                                                                                                                                                                                               
 ```
 ### 👋 Hi !! Everyone 
 ### 🎓 B.Tech CSE (AI & ML) @ KIIT '28 ➗
