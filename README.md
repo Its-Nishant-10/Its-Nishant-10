@@ -1,181 +1,79 @@
 <div align="center">
 
 ```text
-███▄▄▄▄    ▄█     ▄████████    ▄█    █▄       ▄████████ ███▄▄▄▄       ███     
-███▀▀▀██▄ ███    ███    ███   ███    ███     ███    ███ ███▀▀▀██▄ ▀█████████▄ 
-███   ███ ███▌   ███    █▀    ███    ███     ███    ███ ███   ███    ▀███▀▀██ 
-███   ███ ███▌   ███         ▄███▄▄▄▄███▄▄   ███    ███ ███   ███     ███   ▀ 
-███   ███ ███▌ ▀███████████ ▀▀███▀▀▀▀███▀  ▀███████████ ███   ███     ███     
-███   ███ ███           ███   ███    ███     ███    ███ ███   ███     ███     
-███   ███ ███     ▄█    ███   ███    ███     ███    ███ ███   ███     ███     
- ▀█   █▀  █▀    ▄████████▀    ███    █▀      ███    █▀   ▀█   █▀     ▄████▀   
+8b  8 w      8                 w      8b  8      8               
+8Ybm8 w d88b 8d8b. .d88 8d8b. w8ww    8Ybm8 .d88 8d8b. .d88 8d8b 
+8  "8 8 `Yb. 8P Y8 8  8 8P Y8  8      8  "8 8  8 8P Y8 8  8 8P   
+8   8 8 Y88P 8   8 `Y88 8   8  Y8P    8   8 `Y88 8   8 `Y88 8    
+                                                                 
 ```
 
-```bash
-$ whoami
-nishant
+## `CSE (AI & ML) @ KIIT '28`
 
-$ pwd
-/home/nishant
+**Building Things · Understanding Systems · Learning by Curiosity**
 
-$ cat identity.txt
-B.Tech CSE (AI & ML) @ KIIT '28
-Where simple math meets smart machines.
-```
+<br>
+
+`⌘ AI / ML`   `∑ Mathematics`   `λ Algorithms`   `◉ Systems`
+
+<br>
 
 <a href="https://github.com/Its-Nishant-10">
-<img src="https://img.icons8.com/fluency/48/000000/github.png" width="40"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/nishantnahar2006">
-<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40"/>
-</a>
-&nbsp;
-<a href="mailto:nishantnahar2006@gmail.com">
-<img src="https://img.icons8.com/fluency/48/000000/gmail--v1.png" width="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://portfolio-fawn-nine-frfcfpqjim.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/000000/domain.png" width="40"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
 </a>
+&nbsp;
+<a href="mailto:nishantnahar2006@gmail.com">
+<img src="https://img.shields.io/badge/Mail-000000?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 ---
+
 ## `~/about`
-```bash
-$ cat about.txt
-```
-```text
-I believe in understanding first, then coding.
 
-Curious about:
-    → Artificial Intelligence
-    → Machine Learning
-    → Mathematics
-    → Logic
-    → Systems
+> **Understand first. Build second.**
 
-I like:
-    → Breaking complicated ideas into simple steps
-    → Understanding how things work underneath
-    → Connecting mathematics with real-world problems
-    → Building small things to learn bigger concepts
-```
+I'm Nishant — a CSE student interested in the space where **mathematics, logic and intelligent systems** meet.
+
+I like taking complicated ideas apart, understanding what makes them work, and building them back from scratch.
+
 ---
-## `~/current_focus`
-```bash
-$ ./focus.sh
-```
-```text
-[01] Machine Learning fundamentals
-[02] Linear Algebra
-[03] Statistics & Probability
-[04] Discrete Mathematics
-[05] Problem Solving
-[06] Clean & efficient programming
-[07] Small projects → practical understanding
-```
----
-## `~/learning`
-```bash
-$ tree learning/
-```
-```text
-learning/
-├── mathematics/
-│   ├── linear-algebra/
-│   ├── statistics/
-│   └── discrete-mathematics/
-│
-├── programming/
-│   ├── problem-solving/
-│   ├── data-structures/
-│   └── algorithms/
-│
-└── artificial-intelligence/
-    ├── machine-learning/
-    ├── experimentation/
-    └── projects/
-```
----
-## `~/tech`
 
-```bash
-$ cat stack.txt
-```
+## `~/stack`
 
-**Languages**
+**languages**
+
 `Python` · `C++` · `C` · `Java` · `JavaScript` · `HTML` · `CSS`
 
-**AI / ML**
+**libraries**
+
 `PyTorch` · `NumPy` · `Pandas` · `Jupyter`
 
-**Tools**
-`Git` · `GitHub` · `Linux` · `VS Code` · `PostgreSQL` · `Arduino` · `UIPath`
+**tools**
+
+`Git` · `GitHub` · `Linux` · `VS Code` · `PostgreSQL`
 
 ---
-## `~/roadmap`
-```bash
-$ cat roadmap.md
-```
-```text
-COMPLETED
-─────────
-✓ Programming fundamentals
-✓ C / C++ / Java / Python basics
 
-IN PROGRESS
-───────────
-→ Data Structures & Algorithms
-→ Linear Algebra
-→ Statistics & Probability
-→ Machine Learning fundamentals
-→ Better problem solving
+### `~/interests`
 
-NEXT
-────
-□ Deep Learning
-□ Computer Vision
-□ NLP
-□ Advanced ML
-□ Larger real-world projects
-```
+`AI` · `Machine Learning` · `Mathematics` · `Algorithms` · `Systems` · `Problem Solving`
+
 ---
-## `~/side_quests`
-```bash
-$ ls side_quests/
-```
-```text
-🏸  badminton and squash
-☕  coffee
-🧮  math puzzles
-🎧  music
-🐧  linux
-💻  late-night coding
-```
+
+### `~/offline`
+
+`⌁` badminton & squash    `⌁` coffee    `⌁` music    `⌁` math puzzles    `⌁` Linux
+
 ---
-## `~/github`
-```bash
-$ git status
-```
-```text
-On branch learning
 
-Changes not staged for commit:
-    modified:   knowledge
-    modified:   curiosity
-    modified:   problem-solving
 
-Untracked files:
-    new_idea.py
-    another_project.ipynb
-
-nothing is finished yet.
-```
----
-<div align="center">
-  
-```text
-nishant@github:~$ ___ connect and let's build more
-```
-</div>
